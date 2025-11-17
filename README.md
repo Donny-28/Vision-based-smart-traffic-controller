@@ -2,7 +2,7 @@
 A smart traffic light control system that utilizes Computer vision to determine green light duration times.
 
 # Components:
-1. Arduino Mega
+1. Arduino Mega 2560
 2. LED's for traffic light simulation
 3. Web Cam (External Camera)
 
